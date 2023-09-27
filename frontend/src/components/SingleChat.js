@@ -15,7 +15,7 @@ import animationData from "../animations/typing.json";
 import io from "socket.io-client";
 import UpdateGroupChatModal from "./miscellaneous/UpdateGroupChatModal";
 import { ChatState } from "../Context/ChatProvider";
-const ENDPOINT = "https://chit-chat-o047.onrender.com"; // "http://localhost:5000" for locally
+const ENDPOINT = "https://chat-connect-8um5.onrender.com"; // "http://localhost:5000" for locally
 // const ENDPOINT = "http://localhost:5000";
 var socket, selectedChatCompare;
 

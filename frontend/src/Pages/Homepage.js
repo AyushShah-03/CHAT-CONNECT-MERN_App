@@ -36,7 +36,7 @@ function Homepage() {
         borderWidth="1px"
       >
         <Text fontSize="4xl" fontFamily="Work sans">
-          CHIT-CHAT
+          CHAT-CONNECT
         </Text>
       </Box>
       <Box bg="white" w="100%"  p={4} borderRadius="lg" borderWidth="1px">
